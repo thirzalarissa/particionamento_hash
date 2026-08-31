@@ -1,0 +1,2 @@
+# particionamento_hash
+particionamento_hash
